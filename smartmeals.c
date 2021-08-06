@@ -9,8 +9,6 @@ int pos[MAX];
 int available[MAX];
 int we=0;
 
-
-
 struct item
 {
     int sr;
